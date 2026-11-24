@@ -1,0 +1,1 @@
+Tip: your AI pair programmer has no idea if this works either. It's just more confident about it than you are.
